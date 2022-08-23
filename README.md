@@ -5,17 +5,17 @@ This is a single page website which just takes inputs from the user and submits 
 
 
 What did i learn?
-'''
-        -minlength
-        -required
-        -pattern [a-z0-5]{8,}
-        -to choose one radio from each use same name attribute
-        -uploading profile picture
-        -min and max number input
-        -textarea vs input type of text
-        -max and min width
-        -padding
-        -width unset:
-        -inline 
-        -select attribute by value input[type="submit"] 
-'''
+
+        - minlength
+        - required
+        - pattern [a-z0-5]{8,}
+        - to choose one radio from each use same name attribute
+        - uploading profile picture
+        - min and max number input
+        - textarea vs input type of text
+        - max and min width
+        - padding
+        - width unset:
+        - inline 
+        - select attribute by value input[type="submit"] 
+
